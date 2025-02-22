@@ -26,7 +26,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 with st.container():
     st.title("ClusterMaster: Segment any Audience")
     st.markdown("""
-    Welcome to **SClusterMaster** – an interactive tool to segment your audience.
+    Welcome to **ClusterMaster** – an interactive tool to segment your audience.
     
     **Features:**
     - Upload your dataset (CSV format)
