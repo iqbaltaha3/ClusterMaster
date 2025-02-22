@@ -11,7 +11,7 @@ from sklearn.mixture import GaussianMixture
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 
 # --- Custom CSS for a modern look ---
-st.set_page_config(page_title="SparrowSegment", page_icon="📊", layout="wide")
+st.set_page_config(page_title="ClusterMaster", page_icon="", layout="wide")
 custom_css = """
 <style>
 body { font-family: 'Segoe UI', sans-serif; background-color: #f4f6f9; color: #333333; }
@@ -24,9 +24,9 @@ st.markdown(custom_css, unsafe_allow_html=True)
 
 # --- Header & Landing Page ---
 with st.container():
-    st.title("📊 SparrowSegment: AI-Powered Audience Clustering")
+    st.title("ClusterMaster: Segment any Audience")
     st.markdown("""
-    Welcome to **SparrowSegment** – a professional, interactive tool to segment your audience.
+    Welcome to **SClusterMaster** – an interactive tool to segment your audience.
     
     **Features:**
     - Upload your dataset (CSV format)
