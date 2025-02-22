@@ -7,6 +7,9 @@ Under the hood, Cluster Master leverages dimensionality reduction techniques suc
 ## Key technical features include:
 
 Optimized Performance: Caching techniques ensure rapid processing during scaling and clustering.
+
 Interactive Visualizations: Explore your clusters via dynamic 3D scatter plots, 2D charts, and radar plots for a deep dive into cluster centroids.
+
 Robust Evaluation: Metrics such as Silhouette, Calinski-Harabasz, and Davies-Bouldin scores provide a quantitative assessment of clustering quality.
+
 Downloadable Reports: Easily export your clustered data and summary statistics for further analysis or reporting.
