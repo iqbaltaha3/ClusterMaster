@@ -1,6 +1,7 @@
-# ClusterMaster
+# ClusterMaster  
+https://clustermaster.streamlit.app/
 
-Cluster Master is an advanced, AI-driven clustering solution designed to transform raw data into meaningful insights with a professional, user-friendly interface. Built using Python and Streamlit, it allows you to seamlessly upload a CSV file and automatically handles data preprocessing—filling in missing values, scaling numerical features using Standard or MinMax methods, and encoding categorical variables for analysis.
+Cluster Master is an AI-driven clustering solution designed to transform raw data into meaningful insights with a professional, user-friendly interface. Built using Python and Streamlit, it allows you to seamlessly upload a CSV file and automatically handles data preprocessing—filling in missing values, scaling numerical features using Standard or MinMax methods, and encoding categorical variables for analysis.
 
 Under the hood, Cluster Master leverages dimensionality reduction techniques such as PCA or t-SNE to distill complex datasets into 2D or 3D visualizations using Plotly. It then applies state-of-the-art clustering algorithms (like KMeans, DBSCAN, Agglomerative Clustering, or Gaussian Mixture) to segment your audience or data points effectively.
 
